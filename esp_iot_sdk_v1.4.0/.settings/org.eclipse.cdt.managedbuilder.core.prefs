@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/CPATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/CPATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/CPLUS_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/CPLUS_INCLUDE_PATH/value=D\:\\SoftWare\\gcc\\include;D\:\\SoftWare\\gcc\\lib\\gcc\\mingw32\\4.8.1\\include\\c++;D\:\\SoftWare\\gcc\\lib\\gcc\\mingw32\\4.8.1\\include\\c++\\backward;D\:\\SoftWare\\gcc\\lib\\gcc\\mingw32\\4.8.1\\include\\c++\\mingw32
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/C_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/C_INCLUDE_PATH/value=D\:\\SoftWare\\gcc\\include;D\:\\SoftWare\\gcc\\lib\\gcc\\mingw32\\4.8.1\\include
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/LIBRARY_PATH/operation=replace
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/LIBRARY_PATH/value=D\:\\SoftWare\\gcc\\lib;D\:\\SoftWare\\gcc\\lib\\gcc\\mingw32\\4.8.1
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.287137378/appendContributed=true
